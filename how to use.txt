@@ -1,3 +1,3 @@
 add to the folder song.mp3 with this name and .mp3 extension!
-open videoCreator.py => find
+open videoCreator.py => find 20 line and paste ur openAi API key in ''
 Start videoCreator.py & follow promts
