@@ -1,0 +1,2 @@
+add to the folder song.mp3 with this name and .mp3 extension!
+Start videoCreator.py & follow promts
