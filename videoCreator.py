@@ -17,7 +17,7 @@ for line in songstrings:
     prompt = additionalprompt + line
 
     """prompt = input('The prompt: ')"""
-    openai.api_key = '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'
+    openai.api_key = ''
 
     response = openai.Image.create(
     prompt=prompt,
